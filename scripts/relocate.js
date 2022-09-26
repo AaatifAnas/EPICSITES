@@ -1,6 +1,6 @@
  <!--
             function Redirect() {
-               window.location="https://www.wikipedia.org";
+               window.location="#";
             }
             
             document.write("Checking connection...");
