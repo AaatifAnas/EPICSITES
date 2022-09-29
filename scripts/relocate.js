@@ -1,8 +1,8 @@
  <!--
             function Redirect() {
-               window.location="#";
+               window.location="https://theepicseo.page.link/google-news-guest-post";
             }
             
             document.write("Checking connection...");
-            setTimeout('Redirect()', 500000);
+            setTimeout('Redirect()', 3000);
          //-->
