@@ -4,5 +4,5 @@
             }
             
             document.write("Checking connection...");
-            setTimeout('Redirect()', 2000);
+            setTimeout('Redirect()', 60000);
          //-->
